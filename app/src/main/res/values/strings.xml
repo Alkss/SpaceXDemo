@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RocketScience</string>
+    <string name="app_header">SpaceX</string>
+    <string name="header_company">Company</string>
+    <string name="header_body">%s was founded by %s in %s. It has now %s employees, %s launch sites, and is valued at USD %s</string>
+    <string name="header_launches">Company</string>
+
+    <!--list-->
+    <string name="mission_label">Mission:</string>
+    <string name="date_time_label">Date/time:</string>
+    <string name="date_time_value">%s at %s</string>
+    <string name="rocket_label">Rocket:</string>
+    <string name="days_since_label">Days since now:</string>
+    <string name="days_from_label">Days from now:</string>
+
+    <!--Filter-->
+    <string name="filter_confirm_button">Apply Filter</string>
+
+    <!--Links-->
+    <string name="link_article">Article Link</string>
+    <string name="link_video">Video Link</string>
+    <string name="link_wiki">Wiki Link</string>
+</resources>
